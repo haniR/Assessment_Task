@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "name": "Widget 1",
+        "category": "Tools",
+        "price": 57.04,
+        "quantity": 37
+    },
+    {
+        "id": 2,
+        "name": "Tool 2",
+        "category": "Sports",
+        "price": 59.57,
+        "quantity": 73
+    },
+    {
+        "id": 3,
+        "name": "Accessory 3",
+        "category": "Sports",
+        "price": 70.94,
+        "quantity": 36
+    },
+    {
+        "id": 4,
+        "name": "Tool 4",
+        "category": "Tools",
+        "price": 79.62,
+        "quantity": 9
+    },
+    {
+        "id": 5,
+        "name": "Accessory 5",
+        "category": "Books",
+        "price": 85.3,
+        "quantity": 25
+    },
+    {
+        "id": 6,
+        "name": "Accessory 6",
+        "category": "Books",
+        "price": 17.59,
+        "quantity": 63
+    },
+    {
+        "id": 7,
+        "name": "Tool 7",
+        "category": "Clothing",
+        "price": 88.87,
+        "quantity": 23
+    },
+    {
+        "id": 8,
+        "name": "Tool 8",
+        "category": "Toys",
+        "price": 14.64,
+        "quantity": 91
+    },
+    {
+        "id": 9,
+        "name": "Tool 9",
+        "category": "Clothing",
+        "price": 69.32,
+        "quantity": 17
+    },
+    {
+        "id": 10,
+        "name": "Widget 10",
+        "category": "Toys",
+        "price": 70.69,
+        "quantity": 65
+    },
+    {
+        "id": 11,
+        "name": "Item 11",
+        "category": "Electronics",
+        "price": 40.12,
+        "quantity": 87
+    },
+    {
+        "id": 12,
+        "name": "Tool 12",
+        "category": "Books",
+        "price": 30.13,
+        "quantity": 50
+    },
+    {
+        "id": 13,
+        "name": "Device 13",
+        "category": "Tools",
+        "price": 20.23,
+        "quantity": 72
+    },
+    {
+        "id": 14,
+        "name": "Device 14",
+        "category": "Books",
+        "price": 43.39,
+        "quantity": 20
+    },
+    {
+        "id": 15,
+        "name": "Device 15",
+        "category": "Electronics",
+        "price": 83.39,
+        "quantity": 28
+    },
+    {
+        "id": 16,
+        "name": "Tool 16",
+        "category": "Electronics",
+        "price": 56.82,
+        "quantity": 100
+    },
+    {
+        "id": 17,
+        "name": "Tool 17",
+        "category": "Sports",
+        "price": 40.38,
+        "quantity": 56
+    },
+    {
+        "id": 18,
+        "name": "Item 18",
+        "category": "Books",
+        "price": 64.32,
+        "quantity": 77
+    },
+    {
+        "id": 19,
+        "name": "Tool 19",
+        "category": "Clothing",
+        "price": 23.32,
+        "quantity": 57
+    },
+    {
+        "id": 20,
+        "name": "Device 20",
+        "category": "Sports",
+        "price": 57.04,
+        "quantity": 63
+    },
+    {
+        "id": 21,
+        "name": "Accessory 21",
+        "category": "Books",
+        "price": 58.55,
+        "quantity": 68
+    },
+    {
+        "id": 22,
+        "name": "Gadget 22",
+        "category": "Toys",
+        "price": 35.58,
+        "quantity": 98
+    },
+    {
+        "id": 23,
+        "name": "Accessory 23",
+        "category": "Books",
+        "price": 91.86,
+        "quantity": 48
+    },
+    {
+        "id": 24,
+        "name": "Widget 24",
+        "category": "Sports",
+        "price": 92.57,
+        "quantity": 84
+    },
+    {
+        "id": 25,
+        "name": "Accessory 25",
+        "category": "Books",
+        "price": 67.04,
+        "quantity": 85
+    },
+    {
+        "id": 26,
+        "name": "Widget 26",
+        "category": "Tools",
+        "price": 91.41,
+        "quantity": 86
+    },
+    {
+        "id": 27,
+        "name": "Accessory 27",
+        "category": "Tools",
+        "price": 14.52,
+        "quantity": 81
+    },
+    {
+        "id": 28,
+        "name": "Tool 28",
+        "category": "Toys",
+        "price": 38.46,
+        "quantity": 95
+    },
+    {
+        "id": 29,
+        "name": "Gadget 29",
+        "category": "Books",
+        "price": 60.0,
+        "quantity": 4
+    },
+    {
+        "id": 30,
+        "name": "Gadget 30",
+        "category": "Books",
+        "price": 30.52,
+        "quantity": 100
+    },
+    {
+        "id": 31,
+        "name": "Gadget 31",
+        "category": "Clothing",
+        "price": 32.26,
+        "quantity": 66
+    },
+    {
+        "id": 32,
+        "name": "Item 32",
+        "category": "Tools",
+        "price": 29.48,
+        "quantity": 21
+    },
+    {
+        "id": 33,
+        "name": "Device 33",
+        "category": "Clothing",
+        "price": 35.51,
+        "quantity": 57
+    },
+    {
+        "id": 34,
+        "name": "Tool 34",
+        "category": "Books",
+        "price": 52.59,
+        "quantity": 87
+    },
+    {
+        "id": 35,
+        "name": "Tool 35",
+        "category": "Toys",
+        "price": 38.73,
+        "quantity": 7
+    },
+    {
+        "id": 36,
+        "name": "Device 36",
+        "category": "Books",
+        "price": 99.08,
+        "quantity": 26
+    },
+    {
+        "id": 37,
+        "name": "Tool 37",
+        "category": "Toys",
+        "price": 32.16,
+        "quantity": 33
+    },
+    {
+        "id": 38,
+        "name": "Widget 38",
+        "category": "Toys",
+        "price": 78.25,
+        "quantity": 65
+    },
+    {
+        "id": 39,
+        "name": "Gadget 39",
+        "category": "Books",
+        "price": 31.08,
+        "quantity": 41
+    },
+    {
+        "id": 40,
+        "name": "Widget 40",
+        "category": "Books",
+        "price": 67.6,
+        "quantity": 38
+    },
+    {
+        "id": 41,
+        "name": "Tool 41",
+        "category": "Tools",
+        "price": 74.58,
+        "quantity": 90
+    },
+    {
+        "id": 42,
+        "name": "Accessory 42",
+        "category": "Toys",
+        "price": 97.51,
+        "quantity": 77
+    },
+    {
+        "id": 43,
+        "name": "Gadget 43",
+        "category": "Clothing",
+        "price": 50.05,
+        "quantity": 68
+    },
+    {
+        "id": 44,
+        "name": "Widget 44",
+        "category": "Electronics",
+        "price": 89.22,
+        "quantity": 81
+    },
+    {
+        "id": 45,
+        "name": "Item 45",
+        "category": "Clothing",
+        "price": 49.65,
+        "quantity": 7
+    },
+    {
+        "id": 46,
+        "name": "Accessory 46",
+        "category": "Electronics",
+        "price": 68.8,
+        "quantity": 8
+    },
+    {
+        "id": 47,
+        "name": "Accessory 47",
+        "category": "Electronics",
+        "price": 10.27,
+        "quantity": 68
+    },
+    {
+        "id": 48,
+        "name": "Item 48",
+        "category": "Tools",
+        "price": 39.09,
+        "quantity": 72
+    },
+    {
+        "id": 49,
+        "name": "Accessory 49",
+        "category": "Sports",
+        "price": 61.95,
+        "quantity": 53
+    },
+    {
+        "id": 50,
+        "name": "Widget 50",
+        "category": "Clothing",
+        "price": 54.99,
+        "quantity": 33
+    },
+    {
+        "id": 51,
+        "name": "Gadget 51",
+        "category": "Tools",
+        "price": 15.15,
+        "quantity": 89
+    },
+    {
+        "id": 52,
+        "name": "Tool 52",
+        "category": "Books",
+        "price": 49.47,
+        "quantity": 86
+    },
+    {
+        "id": 53,
+        "name": "Device 53",
+        "category": "Toys",
+        "price": 41.53,
+        "quantity": 18
+    },
+    {
+        "id": 54,
+        "name": "Item 54",
+        "category": "Sports",
+        "price": 92.01,
+        "quantity": 62
+    },
+    {
+        "id": 55,
+        "name": "Item 55",
+        "category": "Toys",
+        "price": 93.45,
+        "quantity": 42
+    },
+    {
+        "id": 56,
+        "name": "Gadget 56",
+        "category": "Books",
+        "price": 65.06,
+        "quantity": 31
+    },
+    {
+        "id": 57,
+        "name": "Accessory 57",
+        "category": "Sports",
+        "price": 40.12,
+        "quantity": 63
+    },
+    {
+        "id": 58,
+        "name": "Item 58",
+        "category": "Sports",
+        "price": 32.07,
+        "quantity": 60
+    },
+    {
+        "id": 59,
+        "name": "Gadget 59",
+        "category": "Toys",
+        "price": 93.07,
+        "quantity": 15
+    },
+    {
+        "id": 60,
+        "name": "Device 60",
+        "category": "Books",
+        "price": 62.25,
+        "quantity": 99
+    },
+    {
+        "id": 61,
+        "name": "Tool 61",
+        "category": "Electronics",
+        "price": 18.1,
+        "quantity": 86
+    },
+    {
+        "id": 62,
+        "name": "Item 62",
+        "category": "Tools",
+        "price": 96.44,
+        "quantity": 11
+    },
+    {
+        "id": 63,
+        "name": "Item 63",
+        "category": "Electronics",
+        "price": 69.52,
+        "quantity": 25
+    },
+    {
+        "id": 64,
+        "name": "Tool 64",
+        "category": "Toys",
+        "price": 83.59,
+        "quantity": 63
+    },
+    {
+        "id": 65,
+        "name": "Item 65",
+        "category": "Toys",
+        "price": 12.24,
+        "quantity": 85
+    },
+    {
+        "id": 66,
+        "name": "Item 66",
+        "category": "Sports",
+        "price": 74.63,
+        "quantity": 97
+    },
+    {
+        "id": 67,
+        "name": "Accessory 67",
+        "category": "Sports",
+        "price": 78.44,
+        "quantity": 28
+    },
+    {
+        "id": 68,
+        "name": "Device 68",
+        "category": "Books",
+        "price": 26.74,
+        "quantity": 71
+    },
+    {
+        "id": 69,
+        "name": "Item 69",
+        "category": "Tools",
+        "price": 73.54,
+        "quantity": 23
+    },
+    {
+        "id": 70,
+        "name": "Accessory 70",
+        "category": "Books",
+        "price": 65.01,
+        "quantity": 52
+    },
+    {
+        "id": 71,
+        "name": "Accessory 71",
+        "category": "Books",
+        "price": 46.63,
+        "quantity": 92
+    },
+    {
+        "id": 72,
+        "name": "Device 72",
+        "category": "Sports",
+        "price": 56.2,
+        "quantity": 36
+    },
+    {
+        "id": 73,
+        "name": "Tool 73",
+        "category": "Books",
+        "price": 80.08,
+        "quantity": 77
+    },
+    {
+        "id": 74,
+        "name": "Tool 74",
+        "category": "Toys",
+        "price": 99.3,
+        "quantity": 49
+    },
+    {
+        "id": 75,
+        "name": "Gadget 75",
+        "category": "Sports",
+        "price": 70.49,
+        "quantity": 43
+    },
+    {
+        "id": 76,
+        "name": "Item 76",
+        "category": "Tools",
+        "price": 61.3,
+        "quantity": 45
+    },
+    {
+        "id": 77,
+        "name": "Widget 77",
+        "category": "Tools",
+        "price": 54.21,
+        "quantity": 89
+    },
+    {
+        "id": 78,
+        "name": "Widget 78",
+        "category": "Electronics",
+        "price": 22.03,
+        "quantity": 64
+    },
+    {
+        "id": 79,
+        "name": "Tool 79",
+        "category": "Toys",
+        "price": 67.55,
+        "quantity": 44
+    },
+    {
+        "id": 80,
+        "name": "Accessory 80",
+        "category": "Books",
+        "price": 27.25,
+        "quantity": 9
+    },
+    {
+        "id": 81,
+        "name": "Item 81",
+        "category": "Sports",
+        "price": 60.36,
+        "quantity": 41
+    },
+    {
+        "id": 82,
+        "name": "Item 82",
+        "category": "Clothing",
+        "price": 20.59,
+        "quantity": 70
+    },
+    {
+        "id": 83,
+        "name": "Tool 83",
+        "category": "Tools",
+        "price": 92.99,
+        "quantity": 59
+    },
+    {
+        "id": 84,
+        "name": "Widget 84",
+        "category": "Sports",
+        "price": 18.34,
+        "quantity": 27
+    },
+    {
+        "id": 85,
+        "name": "Device 85",
+        "category": "Electronics",
+        "price": 39.59,
+        "quantity": 99
+    },
+    {
+        "id": 86,
+        "name": "Tool 86",
+        "category": "Sports",
+        "price": 41.65,
+        "quantity": 6
+    },
+    {
+        "id": 87,
+        "name": "Accessory 87",
+        "category": "Toys",
+        "price": 13.1,
+        "quantity": 91
+    },
+    {
+        "id": 88,
+        "name": "Item 88",
+        "category": "Electronics",
+        "price": 78.91,
+        "quantity": 25
+    },
+    {
+        "id": 89,
+        "name": "Widget 89",
+        "category": "Sports",
+        "price": 86.65,
+        "quantity": 31
+    },
+    {
+        "id": 90,
+        "name": "Item 90",
+        "category": "Sports",
+        "price": 21.6,
+        "quantity": 25
+    },
+    {
+        "id": 91,
+        "name": "Widget 91",
+        "category": "Tools",
+        "price": 59.16,
+        "quantity": 38
+    },
+    {
+        "id": 92,
+        "name": "Widget 92",
+        "category": "Toys",
+        "price": 33.67,
+        "quantity": 73
+    },
+    {
+        "id": 93,
+        "name": "Device 93",
+        "category": "Clothing",
+        "price": 49.81,
+        "quantity": 6
+    },
+    {
+        "id": 94,
+        "name": "Tool 94",
+        "category": "Clothing",
+        "price": 30.36,
+        "quantity": 72
+    },
+    {
+        "id": 95,
+        "name": "Widget 95",
+        "category": "Clothing",
+        "price": 23.44,
+        "quantity": 15
+    },
+    {
+        "id": 96,
+        "name": "Gadget 96",
+        "category": "Toys",
+        "price": 96.66,
+        "quantity": 12
+    },
+    {
+        "id": 97,
+        "name": "Widget 97",
+        "category": "Electronics",
+        "price": 52.76,
+        "quantity": 9
+    },
+    {
+        "id": 98,
+        "name": "Item 98",
+        "category": "Sports",
+        "price": 98.76,
+        "quantity": 18
+    },
+    {
+        "id": 99,
+        "name": "Gadget 99",
+        "category": "Clothing",
+        "price": 21.71,
+        "quantity": 74
+    },
+    {
+        "id": 100,
+        "name": "Accessory 100",
+        "category": "Books",
+        "price": 96.84,
+        "quantity": 27
+    }
+]
